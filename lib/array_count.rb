@@ -3,7 +3,7 @@ def count_strings(array)
 
   array.count do |word|
      word.string?
-      
+
   end
   total
 end
