@@ -4,8 +4,8 @@ def count_strings(array)
   array.count do |word|
      word.string?
 
-  end
-  total
+  
+
 end
 
 def count_empty_strings(array)
