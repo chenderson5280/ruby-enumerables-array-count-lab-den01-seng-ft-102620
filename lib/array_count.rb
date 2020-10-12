@@ -5,6 +5,7 @@ total = 0
     if word.string?
       total += 1
   end
+  total
 end
 
 def count_empty_strings(array)
